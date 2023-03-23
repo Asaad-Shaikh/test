@@ -1,0 +1,7 @@
+git add
+git commit -m "i did it"
+git push
+
+hello
+
+git remote set-url origin https://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@github.com/Asaad-Shaikh/test.git
